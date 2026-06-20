@@ -2,8 +2,21 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "KOMEDI",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-06-18T16:57:36.035Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 2,
+  "data": [
+    {
+      "NAMAE": "cFxDVRF3WFxZFXJdQlgZYUdHRVo=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBgUWDlQdfwRHaFVbV3VqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVwEWD1cdYlVWQXBxDGVqXxpbSV4=",
+      "LINK": "AwEEAQQNAAQBBgIDAgA="
+    },
+    {
+      "NAMAE": "UFBSVUIZWEFHR1FaEVRYXFw=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfB1IWDQYdZ1N8dl1uUGtqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAQMWXFAdYXp5Q09AW1NqXxpbSV4=",
+      "LINK": "AwEEAQcPCAYFAwcMAAg="
+    }
+  ],
+  "lastSync": "2026-06-20T19:55:14.243Z",
+  "note": ""
 }
